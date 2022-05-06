@@ -6,6 +6,6 @@
 
 <div align="center">
   <a href="https://github.com/yurifalves?tab=repositories">
-  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=yurifalves&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&cache_seconds=1800">
-  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurifalves&theme=chartreuse-dark&hide=jupyter%20notebook&layout=compact&langs_count=7&cache_seconds=1800">
+  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=yurifalves&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&cache_seconds=1800">
+  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurifalves&theme=chartreuse-dark&hide=jupyter%20notebook&layout=compact&langs_count=7&cache_seconds=1800">
 </div>
