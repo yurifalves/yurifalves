@@ -4,13 +4,6 @@
 [![Yuri's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yurifalves&show_icons=true&theme=chartreuse-dark&show_owner=true&hide=jupyter%20notebook&layout=compact&langs_count=10)](https://github.com/yurifalves?tab=repositories)
 -->
 
-<a href="https://github.com/yurifalves?tab=repositories">
-  <img align="center" src="" />
-</a>
-<a href="https://github.com/yurifalves?tab=repositories">
-  <img align="center" src="" />
-</a>
-
 <div align="center">
   <a href="https://github.com/yurifalves?tab=repositories">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurifalves&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&cache_seconds=1800">
